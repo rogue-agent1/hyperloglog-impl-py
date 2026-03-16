@@ -1,2 +1,5 @@
 # hyperloglog-impl-py
-Zero-dependency Python implementation.
+
+HyperLogLog for cardinality estimation
+
+Zero-dependency Python. Stdlib only.
